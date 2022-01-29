@@ -1,5 +1,7 @@
 # Frogger
 
+[Play now!](https://danleks.github.io/frogger/dist/)
+
 A retro grid-based game in vanilla JavaScript, basic TypeScript, HTML and CSS
 
 Frogger is a 1981 arcade action game developed by Konami and manufactured by Sega. In North America, it was released by Sega/Gremlin.
