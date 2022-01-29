@@ -1,0 +1,44 @@
+.grid {
+  width: 540px;
+  height: 540px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid black;
+}
+
+.grid > div {
+  width: 60px;
+  height: 60px;
+}
+
+.start {
+  background-color: blue;
+}
+
+.finish {
+  background-color: red;
+}
+
+.c {
+  background-color: black;
+}
+
+.r1,
+.r2 {
+  background-color: grey;
+}
+
+.w1,
+.w2 {
+  background-color: lightblue;
+}
+
+.l3,
+.l4,
+.l5 {
+  background-color: brown;
+}
+
+.frogger {
+  background-color: green;
+}
